@@ -1,0 +1,80 @@
+.anim-show-2 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 4s;
+}
+.anim-show-3 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 15s;
+}
+.anim-show-4 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 6s;
+}
+.anim-show-5 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 8s;
+}
+.anim-show-6 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 9s;
+}
+.anim-show-7 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 10s;
+}
+.anim-show-8 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+    animation-delay: 3s;
+}
+.anim-show-10 img{
+    width: auto;
+    height: 80px;
+    margin-top: 5%;
+    opacity: 0;
+    transition: 2s;
+    animation: show 3s 1;
+    animation-fill-mode: forwards;
+
+}

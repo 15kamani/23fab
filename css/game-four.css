@@ -1,0 +1,46 @@
+h1 { 
+	font-size: xx-large; 
+	padding: 2%; 
+} 
+
+.root { 
+	background:#beb083; 
+	margin: 0 1rem; 
+	padding: rem; 
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+	width: 50rem; 
+	border-radius: 0.5rem; 
+} 
+
+.card { 
+	margin: 5%; 
+	text-align: centre; 
+	display: flex; 
+	flex-wrap: wrap; 
+} 
+
+.card-item { 
+	color: #312726; 
+	height: 100px; 
+	font-size: larger; 
+	margin: 1%; 
+	padding: 4%; 
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); 
+	width: 28%;
+    border: 3px solid #312726;
+    border-radius: 20px;
+	background: rgb(2, 0, 36); 
+	background: linear-gradient(120deg, #496036 0%, 
+				rgba(45, 128, 97, 0.33657212885154064) 35%, 
+				#354326 100%); 
+} 
+
+#count { 
+	font-size: xx-large; 
+	color: antiquewhite; 
+} 
+
+p { 
+	font-size: x-large; 
+	font-weight: bolder; 
+}
